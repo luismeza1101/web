@@ -1,2 +1,2 @@
 # web
-Contiene paginas web para el trabajo colaborativo
+Contiene paginas web para el trabajo colaborativo.
